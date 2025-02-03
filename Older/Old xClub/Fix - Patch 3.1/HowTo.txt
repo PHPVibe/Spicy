@@ -1,0 +1,7 @@
+# Patch 3.1 / 24.11.2016
+Please upload /moderator/redtube.php overwriting the old one.
+
+# For old thumbnails not working
+Upload fix.php to your phpvibe folder (near load.php) and open your address 
+in the browser /fix.php
+Remove fix.php after complete run (after the message "Fix applied.")

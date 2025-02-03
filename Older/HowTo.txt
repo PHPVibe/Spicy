@@ -1,0 +1,14 @@
+Thank you for choosing this plugin (Spicy v4).
+
+Changelog for version 4.1:
+- Fixed download
+- Added ajax/background download option
+
+Spicy, the new xClub, updated for PHPVibe 5.
+Moves from cUrl, adds an ajax loader for tags and pornstars in the Redtube importer's form. 
+To install simply upload the folders /moderator and /plugins to your server. 
+Head in Admin to Settings -> Plugins and enable the plugin. 
+Refresh the page and check the new menus in "Add Media". 
+
+Enjoy using and customizing this!
+
